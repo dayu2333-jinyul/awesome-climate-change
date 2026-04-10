@@ -35,6 +35,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Carbon Clock](https://lnkd.in/g6EGw6mr) - How much of our carbon budget is remaining?
 - [Climate Change Tracker](https://climatechangetracker.org/livestream) - Live streaming dashboards aggregating GHG emissions
 
+## Corporate Emissions Accounting
+- [Scope 3 Challenge](https://github.com/co3org/Scope3-Challenge) - A structured knowledge base on how companies measure (and fail to measure) their value-chain emissions. Covers all 15 GHG Protocol Scope 3 categories, why spend-based methods can be off by 2–10x, industry case studies across automotive, apparel, finance and food sectors, and the regulatory deadlines companies face under CSRD, SEC, and ISSB S2. Includes real benchmarks from 1,391 company disclosures.
+
 ## Net Zero
 - [Climate Action Tracker](https://climateactiontracker.org/) -  Country Net-zero commitments rated against the Paris goals.
 - [Zero Tracker](https://zerotracker.net/) - Country, region and city targets and plans analysed and rated.
