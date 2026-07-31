@@ -68,6 +68,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Open Climate Data](https://openclimatedata.net/) - A collection of datasets from different institutes and organisations.
 - [Subak](https://data.subak.org/) - An initiative by the Subak organisation to make climate data more discoverable; more trusted; and more connected.
 
+- [ENSO Historical Dataset](https://github.com/dayu2333-jinyul/enso-historical-data) — Monthly ENSO data covering 8 major El Niño/La Niña events since 1950. 126 records in CSV and JSON.
 ## Communication
 - [Real Climate](https://www.realclimate.org/) - Climate science blog by real climate scientists.
 - [Skeptical Science](https://skepticalscience.com/) - Non-profit science education organization with the goal of raising public understanding of climate change. Specifically addresses common myths and talking points about climate change.
